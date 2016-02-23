@@ -38,7 +38,7 @@ public class WebPageConsumerTest {
     private WebPageConsumer webPageConsumer;
 
     @Mock
-    private Connection connection, connectionB;
+    private Connection connection;
     @Mock
     private Document productsInfo, productInfo;
     @Mock

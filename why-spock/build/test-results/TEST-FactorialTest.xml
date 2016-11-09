@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-11-09T21:56:38" hostname="dmitri-Latitude-E6530" time="0.001">
+  <properties/>
+  <testcase name="minusOne" classname="FactorialTest" time="0.0"/>
+  <testcase name="one" classname="FactorialTest" time="0.0"/>
+  <testcase name="zero" classname="FactorialTest" time="0.0"/>
+  <testcase name="seven" classname="FactorialTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTestSpockJUnitWay" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-11-09T21:56:38" hostname="dmitri-Latitude-E6530" time="0.019">
+  <properties/>
+  <testcase name="zero" classname="FactorialTestSpockJUnitWay" time="0.016"/>
+  <testcase name="one" classname="FactorialTestSpockJUnitWay" time="0.001"/>
+  <testcase name="seven" classname="FactorialTestSpockJUnitWay" time="0.001"/>
+  <testcase name="minusOne" classname="FactorialTestSpockJUnitWay" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Nov 09, 2016 9:56:37 PM org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+INFO: Configuring com.athaydes.spockframework.report.SpockReportExtension
+Nov 09, 2016 9:56:38 PM org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+INFO: SpockReports config loaded: [com.athaydes.spockframework.report.template.TemplateReportCreator.reportFileExtension:md, com.athaydes.spockframework.report.template.TemplateReportCreator.specTemplateFile:/templateReportCreator/spec-template.md, com.athaydes.spockframework.report.IReportCreator:com.athaydes.spockframework.report.internal.HtmlReportCreator, com.athaydes.spockframework.report.template.TemplateReportCreator.summaryTemplateFile:/templateReportCreator/summary-template.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.summaryReportCss:spock-summary-report.css, com.athaydes.spockframework.report.template.TemplateReportCreator.summaryFileName:summary.md, com.athaydes.spockframework.report.internal.HtmlReportCreator.featureReportCss:spock-feature-report.css, com.athaydes.spockframework.report.hideEmptyBlocks:false, com.athaydes.spockframework.report.outputDir:build/spock-reports]
+Nov 09, 2016 9:56:38 PM org.codehaus.groovy.runtime.callsite.PojoMetaMethodSite$PojoCachedMethodSiteNoUnwrap invoke
+INFO: Loading settings for reportCreator of type com.athaydes.spockframework.report.internal.HtmlReportCreator
+]]></system-err>
+</testsuite>

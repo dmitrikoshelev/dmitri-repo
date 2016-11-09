@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nexmo.spock.book.catalog.service.BookCatalogServiceSpeck" tests="5" skipped="0" failures="0" errors="0" timestamp="2016-11-09T21:56:38" hostname="dmitri-Latitude-E6530" time="0.134">
+  <properties/>
+  <testcase name="Should successfully retrieve a book from catalog" classname="com.nexmo.spock.book.catalog.service.BookCatalogServiceSpeck" time="0.075"/>
+  <testcase name="Should successfully retrieve books from catalog" classname="com.nexmo.spock.book.catalog.service.BookCatalogServiceSpeck" time="0.012"/>
+  <testcase name="should successfully add or update a book in the catalog" classname="com.nexmo.spock.book.catalog.service.BookCatalogServiceSpeck" time="0.015"/>
+  <testcase name="Should succeed to remove a book from catalog" classname="com.nexmo.spock.book.catalog.service.BookCatalogServiceSpeck" time="0.002"/>
+  <testcase name="Should fail to remove a book from catalog" classname="com.nexmo.spock.book.catalog.service.BookCatalogServiceSpeck" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

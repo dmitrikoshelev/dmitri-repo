@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTestSpockTables" tests="22" skipped="0" failures="0" errors="0" timestamp="2016-11-09T21:56:38" hostname="dmitri-Latitude-E6530" time="0.013">
+  <properties/>
+  <testcase name="Calculation should pass for any positive number '0' using data tables" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '1' using data tables" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '7' using data tables" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '12' using data tables" classname="FactorialTestSpockTables" time="0.001"/>
+  <testcase name="Calculation should pass for any positive number '20' using data tables" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '40' using data tables" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '0' using data pipes" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '1' using data pipes" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '7' using data pipes" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '12' using data pipes" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '20' using data pipes" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '40' using data pipes" classname="FactorialTestSpockTables" time="0.001"/>
+  <testcase name="Calculation should pass for any positive number '0' using multivalued assignments" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '1' using multivalued assignments" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should pass for any positive number '7' using multivalued assignments" classname="FactorialTestSpockTables" time="0.001"/>
+  <testcase name="Calculation should pass for any positive number '12' using multivalued assignments" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should fail for any negative number '-1.0'" classname="FactorialTestSpockTables" time="0.001"/>
+  <testcase name="Calculation should fail for any negative number '-2.0'" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should fail for any negative number '-5.0'" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should fail for any negative number '-10.0'" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should fail for any negative number '-20.0'" classname="FactorialTestSpockTables" time="0.0"/>
+  <testcase name="Calculation should fail for any negative number '-100.0'" classname="FactorialTestSpockTables" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
